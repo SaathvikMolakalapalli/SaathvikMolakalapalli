@@ -11,9 +11,6 @@ A Student <br>A Passionate CS learner<br>A Programmer <br>A Gamer<br>A Hacker <b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaathvikMolakalapalli&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaathvikMolakalapalli&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SaathvikMolakalapalli&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
